@@ -1,0 +1,5 @@
+{
+	"device":	"ESP32",
+	"sensorType":	"Temperature",
+	"Value":	[20, 21, 23]
+}
